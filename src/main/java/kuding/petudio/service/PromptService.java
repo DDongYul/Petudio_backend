@@ -74,10 +74,11 @@ public class PromptService {
         promptConverter.put("모자", "hat");
         promptConverter.put("선글라스", "sun glass");
         promptConverter.put("수영", "swimming pool");
-        promptConverter.put("우주", "Astral Aura, an award-winning");
+        promptConverter.put("벚꽃", "sakura, sakura petals");
         promptConverter.put("꽃밭", "flower garden");
         promptConverter.put("피라미드", "pyramid");
-        promptConverter.put("동화", "fairy tale");
+        promptConverter.put("경기장", "crowded stadium");
+        promptConverter.put("해변", "beach");
     }
 
     @PostConstruct
